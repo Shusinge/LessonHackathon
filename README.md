@@ -7,3 +7,11 @@ seperti banjir, tanah longsor, kekeringan, dan cuaca ekstrem.
 Website ini dibuat agar masyarakat, khususnya pelajar, dapat memahami penyebab,
 dampak, serta langkah-langkah pencegahan dan penanganan bencana dengan bahasa yang
 sederhana dan mudah dipahami.
+
+Eco-calculator
+- Dasar-dasar desain web
+- HTML + CSS
+- Flask templat
+ - Jinja variabel
+ - Perutean web
+- GitHub + IDE
